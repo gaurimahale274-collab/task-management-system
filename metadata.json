@@ -1,0 +1,8 @@
+{
+  "name": "TaskFlow",
+  "description": "Simple, clean, and warm personal task management application to create tasks, track deadlines, and monitor productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
